@@ -28,8 +28,8 @@ time
 
 In this notebook I will be investogating a dataset of IMD movies to answer two questions which are:
  1.  Do the best rated movies have higher profits?
- 2.  Do movies with higher budgets ger better ratings?
-To accomplish this I will be performing a number of tasks which are: 
+ 2.  Do movies with higher budgets ger better ratings? <br>
+ To accomplish this I will be performing a number of tasks which are: 
 - cleaning the datasets - this will include droping unwanted information , checking for duplicates, renaming some columns if need be etc. 
 - Exploration - I will then proceed to exploring the data looking for clues which will help me asnwer certain questings which we wouls see later in the notebook. 
 - Finally I will give my conclusion based on all my finding 
